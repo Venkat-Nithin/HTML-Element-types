@@ -1,0 +1,15 @@
+*{
+  background-color:blanchedalmond;
+}
+h1{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(0, 13, 255);
+}
+h3{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: brown;
+}
+p{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(255, 0, 0);
+}
